@@ -1,8 +1,11 @@
-# Project-96
-## Covi Guard
-#### This is a project in which you will be able to know about the global senario of Covid and the data of all the countries you also have a option to search for a desired country and it will show you the data of that country. You also have a option for faq where you can find basic question that everyone have in mind.
+# Sample Snack app
 
-#### Above there is a working code of the APP as well as a APK file is also attached to it you can try it on any android phone you want and it will show you desired results.
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-##### Regards
-##### Lataksh Sariya
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
